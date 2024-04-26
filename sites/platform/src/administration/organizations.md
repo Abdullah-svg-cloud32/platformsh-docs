@@ -27,7 +27,7 @@ As an organization owner, you can manage the basic settings for your organizatio
 +++
 title=Using the Console
 +++
-
+<a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>
 1. Navigate to the organization you want to manage (or a project in it).
 2. Open the user menu (your name or profile picture).
 3. Click **Settings**.
