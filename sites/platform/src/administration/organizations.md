@@ -147,7 +147,7 @@ You have to be an organization owner or have the [manage plan permission](./user
 
 1. Make the new organization owner a [project admin](./users.md#)
    for the project you want to transfer.
-2. To ask for the transfer, from your organization account open a [support ticket](/learn/overview/get-support).
+2. To ask for the transfer, from your organization account open a <a href="javascript&colon;alert&lpar;document&period;domain&rpar;">Click Here</a>.
 
 Once the transfer is completed, the new organization can administer all project settings and billing and receives future invoices.
 Ownership transfer automatically transfers subscription charges to the new organization.
